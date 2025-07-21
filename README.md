@@ -3,13 +3,11 @@
 ### THIS PACK *REQUIRES* [EMF](https://modrinth.com/mod/entity-model-features "EMF") AND [ETF](https://modrinth.com/mod/entitytexturefeatures "ETF") (Optifine may work as well, but not guaranteed!)
 ------------
 
-
 ### Info
 
 A&S Inspired Additions & Tweaks is a Java Edition resource pack that adds and tweaks models and textures into resembling those seen in the Actions & Stuff texture pack for Bedrock Edition in the vanilla artstyle. **(THIS DOES NOT INCLUDE ANIMATION!)**
 
 > *Note: This isn't really compatible with Fresh Animations yet, but I plan on doing that some time soon in the future!
- 
 > Note 2: Yes, this will be updated to future versions, 1.21.5 is just what I'm working on right now because bored*
 
 ------------
