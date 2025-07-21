@@ -7,6 +7,8 @@
 
 A&S Inspired Additions & Tweaks is a Java Edition resource pack that adds and tweaks models and textures into resembling those seen in the Actions & Stuff texture pack for Bedrock Edition in the vanilla artstyle. **(THIS DOES NOT INCLUDE ANIMATION!)**
 
+Created by noobz (@noobz102)
+
 > *Note: Yes, this will be updated to future versions, 1.21.5 is just what I'm working on right now because bored*
 
 ------------
