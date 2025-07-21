@@ -5,6 +5,8 @@
 
 **THIS PROJECT DOES NOT USE ACTIONS & STUFF ASSETS, IT SIMPLY REPLICATES THEM. PLEASE SUPPORT [OREVILLE STUDIOS](https://orevillestudios.com/ "OREVILLE STUDIOS") BY PURCHASING [ACTIONS & STUFF](https://www.minecraft.net/en-us/marketplace/pdp/oreville-studios/actions--stuff-1.4/61c7a786-d7ad-49e0-a710-817121cd9795 "ACTIONS & STUFF") VIA THE MICROSOFT STORE/MINECRAFT MARKETPLACE.**
 
+### Info
+
 A&S Inspired Additions & Tweaks is a Java Edition resource pack that adds and tweaks models and textures into resembling those seen in the Actions & Stuff texture pack for Bedrock Edition in the vanilla artstyle. **(THIS DOES NOT INCLUDE ANIMATION!)**
 
 > *Note: This isn't really compatible with Fresh Animations yet, but I plan on doing that some time soon in the future!
