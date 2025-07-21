@@ -1,0 +1,27 @@
+{
+	"id": "sheep_ears",
+	"texture": "textures/entity/sheep/ear.png",
+	"invertAxis": "xy",
+	"translate": [0, 0, 0],
+	"submodels": [
+		{
+			"id": "rightEar",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [3, 0.75, -3.25],
+			"boxes": [
+				{"coordinates": [-0.5, 0, -1, 2, 2, 1], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"id": "leftEar",
+			"invertAxis": "xy",
+			"translate": [-2.25, 0.75, -3.25],
+			"boxes": [
+				{"coordinates": [-2.25, 0, -1, 2, 2, 1], "textureOffset": [0, 0]}
+			]
+		}
+	],
+	"credit": "Made with Blockbench",
+	"textureSize": [6, 3]
+}

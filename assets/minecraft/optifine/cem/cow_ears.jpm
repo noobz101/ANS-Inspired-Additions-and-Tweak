@@ -1,0 +1,28 @@
+{
+	"id": "cow_ears",
+	"invertAxis": "xy",
+	"translate": [0, 0, 0],
+	"submodels": [
+		{
+			"id": "leftEar",
+			"invertAxis": "xy",
+			"translate": [-2, 2, -3],
+			"rotate": [0, 0, 27.5],
+			"boxes": [
+				{"coordinates": [-5, -1, 0, 4, 2, 1], "textureOffset": [0, 39]}
+			]
+		},
+		{
+			"id": "rightEar",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [2, 2, -3],
+			"rotate": [0, 0, -27.5],
+			"boxes": [
+				{"coordinates": [1, -1, 0, 4, 2, 1], "textureOffset": [0, 39]}
+			]
+		}
+	],
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64]
+}
