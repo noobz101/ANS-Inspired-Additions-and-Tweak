@@ -3,7 +3,6 @@
 ### THIS PACK *REQUIRES* [EMF](https://modrinth.com/mod/entity-model-features "EMF") AND [ETF](https://modrinth.com/mod/entitytexturefeatures "ETF") (Optifine may work as well, but not guaranteed!)
 ------------
 
-**THIS PROJECT DOES NOT USE ACTIONS & STUFF ASSETS, IT SIMPLY REPLICATES THEM. PLEASE SUPPORT [OREVILLE STUDIOS](https://orevillestudios.com/ "OREVILLE STUDIOS") BY PURCHASING [ACTIONS & STUFF](https://www.minecraft.net/en-us/marketplace/pdp/oreville-studios/actions--stuff-1.4/61c7a786-d7ad-49e0-a710-817121cd9795 "ACTIONS & STUFF") VIA THE MICROSOFT STORE/MINECRAFT MARKETPLACE.**
 
 ### Info
 
@@ -18,3 +17,5 @@ A&S Inspired Additions & Tweaks is a Java Edition resource pack that adds and tw
 ###  Credits
 - This pack was heavily inspired by [Oreville Studio](https://orevillestudios.com/)'s [Actions & Stuff](https://www.minecraft.net/en-us/marketplace/pdp/oreville-studios/actions--stuff-1.4/61c7a786-d7ad-49e0-a710-817121cd9795 "ACTIONS & STUFF") which you can buy via the Microsoft Store or Minecraft Marketplace
 
+
+**THIS PROJECT DOES NOT USE ACTIONS & STUFF ASSETS, IT SIMPLY REPLICATES THEM. PLEASE SUPPORT [OREVILLE STUDIOS](https://orevillestudios.com/ "OREVILLE STUDIOS") BY PURCHASING [ACTIONS & STUFF](https://www.minecraft.net/en-us/marketplace/pdp/oreville-studios/actions--stuff-1.4/61c7a786-d7ad-49e0-a710-817121cd9795 "ACTIONS & STUFF") VIA THE MICROSOFT STORE/MINECRAFT MARKETPLACE.**
