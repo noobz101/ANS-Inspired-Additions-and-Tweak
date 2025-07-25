@@ -9,6 +9,7 @@
 			"invertAxis": "xy",
 			"mirrorTexture": "u",
 			"translate": [3, 0.75, -3.25],
+			"rotate": [0, 0, -10],
 			"boxes": [
 				{"coordinates": [-0.5, 0, -1, 2, 2, 1], "textureOffset": [0, 0]}
 			]
@@ -17,6 +18,7 @@
 			"id": "leftEar",
 			"invertAxis": "xy",
 			"translate": [-2.25, 0.75, -3.25],
+			"rotate": [0, 0, 10],
 			"boxes": [
 				{"coordinates": [-2.25, 0, -1, 2, 2, 1], "textureOffset": [0, 0]}
 			]
