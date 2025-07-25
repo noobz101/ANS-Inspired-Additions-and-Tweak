@@ -28,12 +28,12 @@
 			"boxes": [
 				{"coordinates": [-4, 39, -4, 8, 8, 8], "textureOffset": [0, 16], "sizeAdd": -0.5},
 				{
-					"coordinates": [-3.72, 39.28, -3.72, 7, 7, 7],
+					"coordinates": [-3.72, 40.28, -3.72, 7, 6, 7],
 					"uvNorth": [49, 2, 56, 9],
 					"uvEast": [49, 2, 56, 9],
 					"uvSouth": [32, 9, 39, 16],
-					"uvWest": [48, 2, 55, 9],
-					"uvUp": [56, 9, 49, 2],
+					"uvWest": [49, 0, 56, 7],
+					"uvUp": [39, 16, 32, 9],
 					"uvDown": [39, 9, 32, 16],
 					"sizeAdd": -0.5
 				}
