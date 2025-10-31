@@ -4,11 +4,11 @@
 	"translate": [0, 0, 0],
 	"submodels": [
 		{
-			"id": "tail",
+			"id": "body2",
 			"invertAxis": "xy",
-			"translate": [0, -4, 2],
+			"translate": [0, 0, 0],
 			"boxes": [
-				{"coordinates": [0, -2, -2, 0, 3, 5], "textureOffset": [0, 18]}
+				{"coordinates": [0, -6, 0, 0, 3, 5], "textureOffset": [0, 18]}
 			]
 		}
 	],

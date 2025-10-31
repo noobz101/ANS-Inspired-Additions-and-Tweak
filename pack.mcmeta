@@ -1,7 +1,9 @@
 {
   "pack": {
-    "description": "Adds some tweaks n' additions! (Work in Progress.)",
+    "description":["",{"text":"Adds some tweaks n' additions from "},{"text":"Actions","bold":true,"color":"#FFCE20"},{"text":" & ","bold":true},{"text":"Stuff!","bold":true,"color":"#FFCE20"},{"text":" (WIP) by noobz102"}],
     "pack_format": 55,
-    "supported_formats": [55, 64]
+    "min_format": [55, 0],
+    "max_format": [69, 0],
+    "supported_formats": [55, 69]
   }
 }
