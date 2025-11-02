@@ -1,0 +1,26 @@
+{
+	"id": "cow_tail",
+	"invertAxis": "xy",
+	"translate": [0, 0, 0],
+	"submodels": [
+		{
+			"id": "tail",
+			"invertAxis": "xy",
+			"translate": [0, -17.75, 0],
+			"rotate": [-5, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-1, 9.5909, -12.24855, 3, 0, 15],
+					"uvNorth": [17, 47, 20, 47],
+					"uvEast": [2, 47, 17, 47],
+					"uvSouth": [35, 47, 38, 47],
+					"uvWest": [20, 47, 35, 47],
+					"uvUp": [20, 47, 17, 32],
+					"uvDown": [20, 32, 17, 47]
+				}
+			]
+		}
+	],
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64]
+}

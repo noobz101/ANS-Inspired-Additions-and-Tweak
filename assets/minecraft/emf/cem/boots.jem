@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"textureSize": [64, 64],
+	"textureSize": [128, 64],
 	"models": [
 		{
 			"part": "left_leg",
