@@ -26,9 +26,9 @@
 			"invertAxis": "xy",
 			"translate": [0, -39, 0],
 			"boxes": [
-				{"coordinates": [-4, 39, -4, 8, 8, 8], "textureOffset": [0, 16], "sizeAdd": -0.5},
+				{"coordinates": [-4, 39, -4, 8, 8, 8], "textureOffset": [0, 16]},
 				{
-					"coordinates": [-3.72, 40.28, -3.72, 7, 6, 7],
+					"coordinates": [-3.72, 39.28, -3.72, 7, 7, 7],
 					"uvNorth": [49, 2, 56, 9],
 					"uvEast": [49, 2, 56, 9],
 					"uvSouth": [32, 9, 39, 16],

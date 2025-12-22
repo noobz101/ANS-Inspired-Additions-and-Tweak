@@ -10,7 +10,8 @@
 			"boxes": [
 				{"coordinates": [-4, 25.75, -4, 8, 8, 8], "textureOffset": [0, 0], "sizeAdd": 0.65},
 				{"coordinates": [-4, 25.75, -4, 8, 8, 8], "textureOffset": [32, 0], "sizeAdd": 0.95},
-				{"coordinates": [-4, 25.25, -4, 8, 8, 8], "textureOffset": [96, 0], "sizeAdd": 0.95}
+				{"coordinates": [-4, 25.25, -4, 8, 8, 8], "textureOffset": [96, 0], "sizeAdd": 0.95},
+				{"coordinates": [-5, 28.75, -5, 10, 6, 10], "textureOffset": [88, 48]}
 			],
 			"submodels": [
 				{
@@ -20,23 +21,6 @@
 					"boxes": [
 						{"coordinates": [-1, 8.75, -1, 2, 2, 2], "textureOffset": [56, 20]},
 						{"coordinates": [-2, 10.75, -2, 4, 2, 4], "textureOffset": [0, 42]}
-					]
-				},
-				{
-					"id": "ridge",
-					"invertAxis": "xy",
-					"translate": [0, 24.75, 0],
-					"submodels": [
-						{
-							"id": "iron",
-							"invertAxis": "xy",
-							"translate": [0, 0, 0],
-							"boxes": [
-								{"coordinates": [-1, 4.5, 4, 2, 6, 2], "textureOffset": [64, 0]},
-								{"coordinates": [-1, 8.5, -4, 2, 2, 8], "textureOffset": [64, 54]},
-								{"coordinates": [-1, 4.5, -6, 2, 6, 2], "textureOffset": [64, 0]}
-							]
-						}
 					]
 				}
 			]
