@@ -30,7 +30,7 @@
 			"invertAxis": "xy",
 			"translate": [0, -18, 8],
 			"boxes": [
-				{"coordinates": [-3, 16, -14, 6, 6, 8], "textureOffset": [0, 0]}
+				{"coordinates": [-3, 16, -14, 6, 6, 8], "textureOffset": [0, 0], "sizeAdd": -0.01}
 			]
 		},
 		{
@@ -71,8 +71,11 @@
 		},
 		{
 			"part": "head",
-			"model": "sheep_ears.jpm",
-			"attach": "true"
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"attach": true,
+			"model": "sheep_ears.jpm"
 		}
 	]
 }

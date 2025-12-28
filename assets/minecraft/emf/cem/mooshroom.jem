@@ -79,6 +79,14 @@
 			"part": "head",
 			"model": "cow_ears.jpm",
 			"attach": "true"
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"attach": true,
+			"model": "cow_tail.jpm"
 		}
 	]
 }

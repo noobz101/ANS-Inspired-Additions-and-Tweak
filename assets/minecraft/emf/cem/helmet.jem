@@ -6,18 +6,19 @@
 			"part": "head",
 			"id": "head",
 			"invertAxis": "xy",
-			"translate": [0, -25, 0],
+			"translate": [0, -23.5, 0],
 			"boxes": [
-				{"coordinates": [-4, 25.75, -4, 8, 8, 8], "textureOffset": [0, 0], "sizeAdd": 0.65},
-				{"coordinates": [-4, 25.75, -4, 8, 8, 8], "textureOffset": [32, 0], "sizeAdd": 0.95},
-				{"coordinates": [-4, 25.25, -4, 8, 8, 8], "textureOffset": [96, 0], "sizeAdd": 0.95},
-				{"coordinates": [-5, 28.75, -5, 10, 6, 10], "textureOffset": [88, 48]}
+				{"coordinates": [-4, 23.5, -4, 8, 8, 8], "textureOffset": [0, 0], "sizeAdd": 0.65},
+				{"coordinates": [-4, 24.25, -4, 8, 8, 8], "textureOffset": [32, 0], "sizeAdd": 0.95},
+				{"coordinates": [-4, 23.25, -4, 8, 8, 8], "textureOffset": [96, 16], "sizeAdd": 0.95},
+				{"coordinates": [-4, 22.75, -4, 8, 8, 8], "textureOffset": [96, 1], "sizeAdd": 0.95},
+				{"coordinates": [-5, 26.5, -5, 10, 6, 10], "textureOffset": [88, 48]}
 			],
 			"submodels": [
 				{
 					"id": "copper",
 					"invertAxis": "xy",
-					"translate": [0, 24.75, 0],
+					"translate": [0, 23.25, 0],
 					"boxes": [
 						{"coordinates": [-1, 8.75, -1, 2, 2, 2], "textureOffset": [56, 20]},
 						{"coordinates": [-2, 10.75, -2, 4, 2, 4], "textureOffset": [0, 42]}

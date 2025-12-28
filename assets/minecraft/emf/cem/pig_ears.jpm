@@ -6,7 +6,7 @@
 		{
 			"id": "rightEar",
 			"invertAxis": "xy",
-			"translate": [3.5, 1, -5],
+			"translate": [3.5, 13, -11],
 			"rotate": [0, 0, 22.5],
 			"boxes": [
 				{"coordinates": [0, -3, -2, 1, 4, 3], "textureOffset": [0, 1]}
@@ -16,7 +16,7 @@
 			"id": "leftEar",
 			"invertAxis": "xy",
 			"mirrorTexture": "u",
-			"translate": [-3.5, 1, -5],
+			"translate": [-3.5, 13, -11],
 			"rotate": [0, 0, -22.5],
 			"boxes": [
 				{"coordinates": [-1, -3, -2, 1, 4, 3], "textureOffset": [0, 1]}

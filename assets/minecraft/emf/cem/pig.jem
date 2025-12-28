@@ -82,7 +82,8 @@
 		{
 			"part": "head",
 			"model": "pig_ears.jpm",
-			"attach": "true"
+			"attach": "true",
+			"translate": [0, -12, 6]
 		}
 	]
 }
